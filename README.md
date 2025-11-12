@@ -33,7 +33,7 @@ Ping melalui PC-C Berhasil
 
 #### Hasil Tes Ping Switch
 
-![Hasil Tes Ping Antar Switch](Ping_Switch.png)
+![Hasil Tes Ping Antar Switch](Ping_Switch.jpg)
 
 
 ---
