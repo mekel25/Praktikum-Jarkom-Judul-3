@@ -1,4 +1,7 @@
-# Praktikum Jaringan Komputer - Judul 3: [Ganti dengan Judul Topik Anda]
+# Praktikum Jaringan Komputer - Judul 3
+Nama : MIchael Deffrans C
+NPM : 2315061087
+Kelompok : PJK-A
 
 Dokumen ini berisi langkah-langkah, konfigurasi, dan hasil dari praktikum jaringan komputer.
 
