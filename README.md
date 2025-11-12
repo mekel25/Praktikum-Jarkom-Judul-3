@@ -12,28 +12,28 @@ Berikut adalah semua gambar yang digunakan dalam dokumentasi praktikum ini. Kete
 
 ![Topologi Jaringan](Topologi.jpg)
 
-### Ping PC - A Berhasil
+### Ping PC - A 
 
-Konfigurasi Router A
+Ping melalui PC-A Berhasil
 
 ![Ping PC-A](Ping_PC-A.jpg)
 
-#### Konfigurasi Router B
+#### PING PC-B
 
-![Konfigurasi Router B](Konfigurasi_Router_B.png)
+Ping melalui PC-B Berhasil
 
-#### Konfigurasi PC Client
+![Ping PC B](Ping_PC-B.jpg)
 
-![Konfigurasi PC Client](Konfigurasi_PC_Client.png)
+#### Pinf PC-C
 
-### Hasil Pengujian
+Ping melalui PC-C Berhasil
 
-#### Hasil Tes Ping
+![Ping PC C](Ping_PC-C.jpg)
 
-![Hasil Tes Ping Antar Jaringan](Hasil_Tes_Ping.png)
 
-#### Tabel Routing
+#### Hasil Tes Ping Switch
 
-![Tabel Routing](Tabel_Routing.png)
+![Hasil Tes Ping Antar Switch](Ping_switch.png)
+
 
 ---
