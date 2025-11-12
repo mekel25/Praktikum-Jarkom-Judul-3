@@ -16,7 +16,7 @@ Berikut adalah semua gambar yang digunakan dalam dokumentasi praktikum ini. Kete
 
 Konfigurasi Router A
 
-![Ping PC-A](Ping PC-A.jpg)
+![Ping PC-A](Ping_PC-A.jpg)
 
 #### Konfigurasi Router B
 
